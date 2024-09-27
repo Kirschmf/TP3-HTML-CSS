@@ -1,0 +1,11 @@
+h1 {
+    display: none;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 992px;
+}
